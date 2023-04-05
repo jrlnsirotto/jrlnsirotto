@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Neto</h1>
 <h3 align="center">I use this repository to explore new ideas</h3>
 
 <h3 align="center"> ...</h3>
