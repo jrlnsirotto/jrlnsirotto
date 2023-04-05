@@ -4,8 +4,7 @@
 <h3 align="center"> ...</h3>
 
 <p align="center"> 
-<img align="left" alt="Coding" width="175" style="float:left; padding-right:100px" src="https://img.myloview.es/posters/programmer-computer-expert-rgb-color-icon-man-coding-on-laptop-freelance-software-developer-at-work-coder-at-laptop-social-class-social-classification-group-member-isolated-vector-illustration-400-250388621.jpg">
-<width=100>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jrlnsirotto&show_icons=true&locale=en" alt="jrlnsirotto" />
 </p>
 
