@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on: **geodata extraction**
+- 🔭 I’m currently working on: **geodata-extraction**
 
 - 📫 How to reach me: **jrlnsirotto@gmail.com**
 
